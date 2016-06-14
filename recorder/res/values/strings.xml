@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">录屏</string>
+    <string name="start_record">开始录屏</string>
+    <string name="stop_record">停止录屏</string>
+</resources>

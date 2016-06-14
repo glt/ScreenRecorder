@@ -1,0 +1,17 @@
+.idea/
+.gradle/
+out/
+obj/
+bin/
+gen/
+build/
+captures/
+.classpath
+.project
+.DS_Store
+.settings
+local.properties
+*.iml
+packages/phoenix/*lint*.xml
+.directory
+gradle/
